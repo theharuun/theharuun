@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harun Korkmaz</h1>
-<h3 align="center">I am a student of Uskudar University , I want to be a creative backEnd developer</h3>
+<h3 align="center">I am a student of Uskudar University as a Computer Engineering student  , I want to be a creative backEnd developer and AI engineer </h3>
 
-- 🌱 I’m currently learning **.NET framework , React**
+- 🌱 I’m currently learning **.NET framework , Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/theharuun](https://github.com/theharuun)
 
